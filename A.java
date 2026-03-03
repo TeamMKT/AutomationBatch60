@@ -3,7 +3,7 @@ public class A
 {
 	void java()
 	{
-		System.out.println("Statement 1 by MKT");
+		System.out.println("Statement 1 by MKT Automation Testing");
 	}
 	void selenium()
 	{
